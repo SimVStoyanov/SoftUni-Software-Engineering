@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FtwBz45AZo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simst\\Desktop\\QA - SofitUni\\Programming for QA_05_25\\Programming Unit Testing\\17.Unit Testing - Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simst\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\simst\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\simst\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
