@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simst\\Desktop\\QA - SofitUni\\Programming for QA_05_25\\Programming Unit Testing\\Exam Preparation\\ExamPreparation1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BB7ED3-62A2-489D-BBFE-512DD992F5DF}|02.MiddleElements\\02.MiddleElements.csproj|c:\\users\\simst\\desktop\\qa - sofituni\\programming for qa_05_25\\programming unit testing\\exam preparation\\exampreparation1\\02.middleelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BB7ED3-62A2-489D-BBFE-512DD992F5DF}|02.MiddleElements\\02.MiddleElements.csproj|solutionrelative:02.middleelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512079F5-57D9-4B82-9A04-2771DD330915}|01.SumFactorialEvenDigits\\01.SumFactorialEvenDigits.csproj|c:\\users\\simst\\desktop\\qa - sofituni\\programming for qa_05_25\\programming unit testing\\exam preparation\\exampreparation1\\01.sumfactorialevendigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512079F5-57D9-4B82-9A04-2771DD330915}|01.SumFactorialEvenDigits\\01.SumFactorialEvenDigits.csproj|solutionrelative:01.sumfactorialevendigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\QA - SofitUni\\Programming for QA_05_25\\Programming Unit Testing\\Exam Preparation\\ExamPreparation1\\02.MiddleElements\\Program.cs",
+              "RelativeDocumentMoniker": "02.MiddleElements\\Program.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\QA - SofitUni\\Programming for QA_05_25\\Programming Unit Testing\\Exam Preparation\\ExamPreparation1\\02.MiddleElements\\Program.cs*",
+              "RelativeToolTip": "02.MiddleElements\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:15:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\QA - SofitUni\\Programming for QA_05_25\\Programming Unit Testing\\Exam Preparation\\ExamPreparation1\\01.SumFactorialEvenDigits\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumFactorialEvenDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\QA - SofitUni\\Programming for QA_05_25\\Programming Unit Testing\\Exam Preparation\\ExamPreparation1\\01.SumFactorialEvenDigits\\Program.cs",
+              "RelativeToolTip": "01.SumFactorialEvenDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:14:42.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
