@@ -1,0 +1,14 @@
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.exe
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.deps.json
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.runtimeconfig.json
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.dll
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.pdb
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.dll
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\refint\04.CalculateRectangleArea.dll
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.pdb
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\04.CalculateRectangleArea\obj\Debug\net9.0\ref\04.CalculateRectangleArea.dll

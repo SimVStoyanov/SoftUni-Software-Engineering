@@ -1,0 +1,14 @@
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.exe
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.deps.json
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.runtimeconfig.json
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.dll
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.pdb
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfoInputs.cache
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfo.cs
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.dll
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\refint\05.RepeatString.dll
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.pdb
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.genruntimeconfig.cache
+C:\Users\simst\Desktop\QA - SofitUni\Programming for QA_05_25\Programming Unit Testing\11.Methods\11.Methods\05.RepeatString\obj\Debug\net9.0\ref\05.RepeatString.dll
