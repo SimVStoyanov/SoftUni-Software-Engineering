@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|solutionrelative:testapp\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp.tests\\groupingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\groupingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp.tests\\countrealnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\countrealnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|c:\\users\\simst\\desktop\\1\\04.exercise dictionaries, lambda, linq and unit testing\\testapp\\countcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|solutionrelative:testapp\\countcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp\\Miner.cs",
+              "RelativeDocumentMoniker": "TestApp\\Miner.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp\\Miner.cs",
+              "RelativeToolTip": "TestApp\\Miner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:22:58.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountCharacters.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp\\CountCharacters.cs",
+              "RelativeDocumentMoniker": "TestApp\\CountCharacters.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp\\CountCharacters.cs",
+              "RelativeToolTip": "TestApp\\CountCharacters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:21:12.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinerTests.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\MinerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\MinerTests.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\MinerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\MinerTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:57:49.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupingTests.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\GroupingTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\GroupingTests.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\GroupingTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\GroupingTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:57:12.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OddOccurrencesTests.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:58:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersTests.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OrdersTests.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OrdersTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:59:13.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantsTests.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PlantsTests.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PlantsTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:59:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountRealNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\CountRealNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CountRealNumbersTests.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\CountRealNumbersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CountRealNumbersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:56:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountCharactersTests.cs",
+              "DocumentMoniker": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CountCharactersTests.cs",
+              "ToolTip": "C:\\Users\\simst\\Desktop\\1\\04.Exercise Dictionaries, Lambda, LINQ and Unit Testing\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CountCharactersTests.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:40:18.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
