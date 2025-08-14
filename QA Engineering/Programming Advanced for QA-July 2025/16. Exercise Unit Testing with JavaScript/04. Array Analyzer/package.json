@@ -1,0 +1,18 @@
+
+{
+  "name": "04.array-analyzer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "arrayAnalyzer.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "DA",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1"
+  }
+}
